@@ -30,8 +30,8 @@ A Node.js + Express backend API for **subscription tracking and reminders**, wit
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone git clone https://github.com/diwakarshukla941/subscription-api.git
+cd subscription-api
 ```
 
 ### 2️⃣ Install Dependencies  
